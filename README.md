@@ -1,12 +1,10 @@
-# Basic React setup
-
-This is my basic React setup for personal usage. What's inside:
+# Frontend client for Inexika task
 
 - React
 - Typescript
 - Webpack
 - Babel
-- Sass
+- Chakra UI
 
 ## Starting a dev server
 
@@ -15,3 +13,7 @@ yarn dev
 ## Make a production build
 
 yarn build
+
+## Start the production build
+
+yarn start:prod
