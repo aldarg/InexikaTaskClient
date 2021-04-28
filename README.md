@@ -6,14 +6,27 @@
 - Babel
 - Chakra UI
 
-## Starting a dev server
+## Deployment
 
-yarn dev
+```bash
+$ docker-compose up
+```
 
-## Make a production build
+## Installation
 
-yarn build
+```bash
+$ yarn install
+```
 
-## Start the production build
+## Running the app
 
-yarn start:prod
+```bash
+#build
+$ yarn build
+
+#dev server
+$ yarn dev
+
+#production mode
+$ yarn start:prod
+```
